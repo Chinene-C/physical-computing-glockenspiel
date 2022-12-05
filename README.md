@@ -6,10 +6,7 @@
 •	Primary testing showed it could increase learning speed by more than 30% </br>
 
 ### Arduino Code
+<img src="https://user-images.githubusercontent.com/73177313/205525185-0bf4ace4-08cf-4b88-b66a-8f19fa9722d3.png" width=50% height=50%>
 
 ### Circuitry
-![Capture](https://user-images.githubusercontent.com/73177313/205524560-b1058820-aaf7-4556-96b7-69950cfeb448.PNG)
-
-### Working Protoype
-
-#### Future Improvements
+<img src="https://user-images.githubusercontent.com/73177313/205524560-b1058820-aaf7-4556-96b7-69950cfeb448.PNG" width=50% height=50%>
