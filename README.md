@@ -8,6 +8,7 @@
 ### Arduino Code
 
 ### Circuitry
+![Capture](https://user-images.githubusercontent.com/73177313/205524560-b1058820-aaf7-4556-96b7-69950cfeb448.PNG)
 
 ### Working Protoype
 
